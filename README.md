@@ -10,7 +10,7 @@ Le cours consiste à savoir :
 
 
 
-# Quelques commandes utiles :
+# Quelques commandes utiles : :exclamation::exclamation::exclamation:
 
 `git init` 
 > Initialise le projet
@@ -20,3 +20,8 @@ Le cours consiste à savoir :
 
 `git commit -m "message"` 
 > commit les modifications
+
+<a href="https://www.youtube.com/watch?v=V6Zo68uQPqE"><img src="https://assets-cdn.github.com/images/modules/open_graph/github-mark.png" 
+alt="Enjoy" width="240" height="180" border="10" /></a>
+
+:neckbeard::neckbeard::neckbeard:
