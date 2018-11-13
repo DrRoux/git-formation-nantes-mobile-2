@@ -20,3 +20,6 @@ Le cours consiste à savoir :
 
 `git commit -m "message"` 
 > commit les modifications
+
+`git branch branch_name`
+> créer une nouvelle branche
