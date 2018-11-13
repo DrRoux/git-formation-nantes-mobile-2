@@ -22,4 +22,4 @@ Le cours consiste à savoir :
 > commit les modifications
 
 `git log` 
-> Affiche l'historique des commits
+> Affiche l'historique des commit
