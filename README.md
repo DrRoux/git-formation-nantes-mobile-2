@@ -22,6 +22,9 @@ Le cours consiste à savoir :
 > commit les modifications
 
 
+`git status`
+> voir la différence entre l'index et le HEAD où on est présent
+
 `git branch branch_name`
 > créer une nouvelle branche
 
