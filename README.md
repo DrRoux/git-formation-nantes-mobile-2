@@ -6,7 +6,7 @@ Le cours consiste à savoir :
 
 
 1. Utiliser les commandes Git
-2. Utilisier GitHub en collaboration
+2. Utiliser GitHub en collaboration
 
 
 
@@ -21,5 +21,16 @@ Le cours consiste à savoir :
 `git commit -m "message"` 
 > commit les modifications
 
+
 `git status`
 > voir la différence entre l'index et le HEAD où on est présent
+
+`git branch branch_name`
+> créer une nouvelle branche
+
+
+`git log` 
+> Affiche l'historique des commit
+
+## Plus de commandes utiles [ici](https://gist.github.com/aquelito/8596717)
+
