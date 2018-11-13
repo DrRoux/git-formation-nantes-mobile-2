@@ -22,7 +22,12 @@ Le cours consiste à savoir :
 > commit les modifications
 
 
+`git branch branch_name`
+> créer une nouvelle branche
+
+
 `git log` 
 > Affiche l'historique des commit
 
 ## Plus de commandes utiles [ici](https://gist.github.com/aquelito/8596717)
+
