@@ -32,5 +32,8 @@ Le cours consiste à savoir :
 `git log` 
 > Affiche l'historique des commit
 
+`git push -u origin master`
+> envoit les modifications au serveur distant
+
 ## Plus de commandes utiles [ici](https://gist.github.com/aquelito/8596717)
 
