@@ -21,4 +21,8 @@ Le cours consiste à savoir :
 `git commit -m "message"` 
 > commit les modifications
 
+
+`git log` 
+> Affiche l'historique des commit
+
 ## Plus de commandes utiles [ici](https://gist.github.com/aquelito/8596717)
